@@ -9,7 +9,7 @@ Visualization of obtained result:
 1) t = 0
 </br>
 <img src="./images/t0.png" width="600"/>
-1) t = 20
+2) t = 20
 </br>
 <img src="./images/t20.png" width="600"/>
 3) t = 40
